@@ -1,3 +1,9 @@
+# *** ARCHIVED ***
+
+I suggest using the [official GitHub action for Black](https://black.readthedocs.io/en/stable/integrations/github_actions.html) instead.
+
+# *** ARCHIVED ***
+
 # Black Code Formatter GitHub Action
 
 A GitHub action that runs [black code formatter](https://github.com/ambv/black) for Python.
